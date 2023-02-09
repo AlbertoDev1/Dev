@@ -1,6 +1,6 @@
 # Calculate the average of 4 numbers
 
-def average(num1, num2, num3, num4):
+def average(num1, num2, num3, num4, num5):
   # Calculate the sum
   sum = num1 + num2 + num3 + num4
 
